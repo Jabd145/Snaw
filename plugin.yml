@@ -1,0 +1,7 @@
+name: Snaw
+main: me.jabd145.snaw.Snaw
+version: 1
+commands:
+         snaw:
+           usage: /<command> help
+           description: have some snaw
